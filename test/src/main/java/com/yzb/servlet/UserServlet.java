@@ -17,5 +17,7 @@ package com.yzb.servlet;
   <a href-"https://translate.google.cn/#en/zh-CN/Preference">谷歌翻译</a> 
  */
 public class UserServlet {
-
+	public static void main(String[] args) {
+		System.out.println("hello world");
+	}
 }
