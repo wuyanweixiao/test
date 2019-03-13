@@ -19,5 +19,6 @@ package com.yzb.servlet;
 public class UserServlet {
 	public static void main(String[] args) {
 		System.out.println("hello world");
+		System.out.println("测试1");
 	}
 }
